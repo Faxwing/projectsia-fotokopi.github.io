@@ -21,10 +21,10 @@
   <body class="hold-transition login-page">
     <div class="login-box">
       <div class="login-logo">
-        <a href="#"><b>POINT</b> of <b>SALES</b></a>
+        <a href="#"><b>POINT of Sales</b> </a>
       </div><!-- /.login-logo -->
       <div class="login-box-body">
-        <p class="login-box-msg">Silahkan Login Pada Form dibawah ini</p>
+        <p class="login-box-msg">Silahkan Login Padaasdasdasd Form dibawah ini</p>
         <?php 
           if (isset($_POST['submit'])){
               echo "<div class='alert alert-danger'><center>Maaf, Username atau Password anda salah.</center></div>";
