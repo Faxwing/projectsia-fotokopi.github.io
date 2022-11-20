@@ -330,7 +330,11 @@
       
       <aside class="main-sidebar">
           <?php 
-            include "menu-admin.php";  
+          if ($this->session->level=='admin'){
+            include "menu-admin.php";
+          }else{
+            include "menu-kasir.php";
+          }
           ?>
       </aside>
 
