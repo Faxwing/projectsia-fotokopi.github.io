@@ -21,7 +21,7 @@
   <body class="hold-transition login-page">
     <div class="login-box">
       <div class="login-logo">
-        <a href="#"><b>POINT of Sales</b> </a>
+        <a href="#"><b>PROJECT KELOMPOK 8</b> </a>
       </div><!-- /.login-logo -->
       <div class="login-box-body">
         <p class="login-box-msg">Silahkan Login Padaasdasdasd Form dibawah ini</p>
