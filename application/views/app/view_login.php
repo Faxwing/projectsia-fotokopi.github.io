@@ -24,7 +24,7 @@
         <a href="#"><b>PROJECT KELOMPOK 8</b> </a>
       </div><!-- /.login-logo -->
       <div class="login-box-body">
-        <p class="login-box-msg">Silahkan Login Padaasdasdasd Form dibawah ini</p>
+        <p class="login-box-msg">Silahkan Login Pada Form dibawah ini</p>
         <?php 
           if (isset($_POST['submit'])){
               echo "<div class='alert alert-danger'><center>Maaf, Username atau Password anda salah.</center></div>";
